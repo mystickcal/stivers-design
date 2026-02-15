@@ -44,7 +44,7 @@ body {
     line-height: 1.7;
 }
 
-/* Blueprint floor plan background */
+/* Blueprint floor plan background (light version for body) */
 body::before {
     content: '';
     position: fixed;
@@ -52,11 +52,11 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/images/blueprint-bg.jpg');
+    background-image: url('/images/blueprint-light.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.45;
+    opacity: 0.5;
     pointer-events: none;
     z-index: 0;
 }
@@ -153,7 +153,7 @@ body::before {
     overflow: hidden;
 }
 
-/* Blueprint floor plan overlay on hero */
+/* Blueprint floor plan overlay on hero (dark version) */
 .hero-section::before {
     content: '';
     position: absolute;
@@ -161,10 +161,10 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/images/blueprint-hero.jpg');
+    background-image: url('/images/blueprint-bg.jpg');
     background-size: cover;
     background-position: center;
-    opacity: 0.25;
+    opacity: 0.35;
     pointer-events: none;
 }
 
