@@ -1,0 +1,77 @@
+baseURL = "https://stiversdesign.com/"
+languageCode = "en-us"
+title = "Stivers Design LLC"
+theme = "PaperMod"
+copyright = "Stivers Design LLC · Avon, Ohio · Licensed & Insured General Contractor"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  description = "Stivers Design LLC — Licensed general contractor serving Greater Cleveland and Northeast Ohio. Roofing, siding, remodeling, additions, and full-service construction."
+  author = "Stivers Design LLC"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = false
+  comments = false
+
+  images = ["/images/og-default.jpg"]
+
+  [params.label]
+    text = "Stivers Design"
+    iconHeight = 35
+
+  [params.homeInfoParams]
+    Title = "Stivers Design LLC"
+    Content = "General Contractor"
+
+  [params.assets]
+    favicon = "/images/favicon.svg"
+
+  [params.cover]
+    hidden = false
+
+  [params.footer]
+    hideCopyright = false
+    text = "Licensed & Insured · Serving Greater Cleveland & Northeast Ohio"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 20
+  [[menu.main]]
+    identifier = "process"
+    name = "Our Process"
+    url = "/process/"
+    weight = 30
+  [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/gallery/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
