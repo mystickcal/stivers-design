@@ -727,10 +727,10 @@ body.list .main {
     text-align: center;
     padding: 2rem 1.5rem !important;
     font-size: 0.85rem;
-    margin-top: 0;
+    margin: 0 !important;
     border-top: 1px solid rgba(255, 255, 255, 0.04);
-    width: 100vw !important;
-    margin-left: calc(-50vw + 50%) !important;
+    max-width: 100% !important;
+    width: 100% !important;
     box-sizing: border-box;
 }
 
