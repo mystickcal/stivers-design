@@ -24,7 +24,8 @@ copyright = "Stivers Design LLC · Avon, Ohio · Licensed & Insured General Cont
   images = ["/images/og-default.jpg"]
 
   [params.label]
-    text = "Stivers Design"
+    text = " "
+    icon = "images/logo-dark.png"
     iconHeight = 100
 
   [params.homeInfoParams]
