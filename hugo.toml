@@ -1,16 +1,16 @@
 baseURL = "https://stivers-design.pages.dev/"
 languageCode = "en-us"
-title = "Stivers Design LLC"
+title = "Stivers Design Inc"
 theme = "PaperMod"
-copyright = "Stivers Design LLC · Avon, Ohio · Insured General Contractor"
+copyright = "Stivers Design Inc · Warren, Ohio · Insured General Contractor"
 
 [pagination]
   pagerSize = 10
 
 [params]
   env = "production"
-  description = "Stivers Design LLC — Insured general contractor serving Greater Cleveland and Northeast Ohio. New builds, demolition, siding, remodeling, additions, and full-service construction."
-  author = "Stivers Design LLC"
+  description = "Stivers Design Inc — Insured general contractor serving Warren, Trumbull County, and Northeast Ohio. New builds, demolition, siding, remodeling, additions, concrete, and full-service construction."
+  author = "Stivers Design Inc"
   defaultTheme = "light"
   disableThemeToggle = true
   ShowReadingTime = false
@@ -24,12 +24,10 @@ copyright = "Stivers Design LLC · Avon, Ohio · Insured General Contractor"
   images = ["/images/og-default.jpg"]
 
   [params.label]
-    text = " "
-    icon = "images/logo-dark.png"
-    iconHeight = 50
+    text = "Stivers Design Inc"
 
   [params.homeInfoParams]
-    Title = "Stivers Design LLC"
+    Title = "Stivers Design Inc"
     Content = "General Contractor"
 
   [params.assets]
@@ -40,7 +38,7 @@ copyright = "Stivers Design LLC · Avon, Ohio · Insured General Contractor"
 
   [params.footer]
     hideCopyright = false
-    text = "Fully Insured · Serving Greater Cleveland & Northeast Ohio"
+    text = "Fully Insured · Serving the Mahoning Valley & Northeast Ohio"
 
 [outputs]
   home = ["HTML", "RSS"]

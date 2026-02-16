@@ -1,7 +1,7 @@
 /* ===================================================
-   Stivers Design LLC — Blueprint Theme v3
-   Split hero: content LEFT, blueprint zoomed RIGHT
-   Logo in header, modern clean aesthetic
+   Stivers Design Inc — Blueprint Theme v3
+   Stacked hero: logo centered top, text centered below
+   Text-only header, modern clean aesthetic
    =================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap');
@@ -42,7 +42,7 @@ body {
 }
 
 /* =============================================
-   HEADER — with logo image
+   HEADER — text-only, no logo image
    ============================================= */
 .header {
     background: var(--navy) !important;
@@ -76,17 +76,6 @@ body {
     white-space: nowrap;
 }
 
-/* Logo image in header */
-.logo a img {
-    height: 50px !important;
-    width: auto !important;
-    transition: var(--transition);
-}
-
-.logo a img:hover {
-    transform: scale(1.02);
-}
-
 .logo-switches { display: none !important; }
 
 #menu {
@@ -118,6 +107,7 @@ body {
 
 /* =============================================
    HERO — Full-width, blueprint bleeds RIGHT
+   Stacked layout: logo centered on top, text below
    ============================================= */
 .first-entry.home-info { display: none !important; }
 
@@ -148,12 +138,12 @@ body {
     -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0,0,0,0.1) 10%, rgba(0,0,0,0.6) 30%, rgba(0,0,0,1) 55%);
 }
 
-/* Gradient to protect left side text */
+/* Gradient to protect text */
 .hero-section::after {
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(100deg, var(--navy) 0%, var(--navy) 30%, rgba(12,25,41,0.65) 48%, rgba(12,25,41,0.15) 70%, transparent 100%);
+    background: linear-gradient(180deg, rgba(12,25,41,0.85) 0%, rgba(12,25,41,0.7) 40%, rgba(12,25,41,0.65) 60%, rgba(12,25,41,0.75) 100%);
     pointer-events: none;
 }
 
@@ -168,8 +158,10 @@ body {
 
 .hero-inner--split {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 4rem;
+    text-align: center;
+    gap: 2rem;
 }
 
 .hero-logo {
@@ -177,7 +169,7 @@ body {
 }
 
 .hero-logo img {
-    width: 280px;
+    width: 350px;
     height: auto;
     filter: drop-shadow(0 4px 20px rgba(0, 0, 0, 0.3));
 }
@@ -201,6 +193,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.15em;
     margin-bottom: 1.5rem;
+    justify-content: center;
 }
 
 .hero-title {
@@ -210,7 +203,7 @@ body {
     margin: 0 0 1.2rem;
     line-height: 1.02;
     letter-spacing: -0.045em;
-    max-width: 520px;
+    max-width: 100%;
 }
 
 .hero-title span {
@@ -220,15 +213,16 @@ body {
 .hero-subtitle {
     font-size: 1.08rem;
     color: rgba(255, 255, 255, 0.6);
-    max-width: 460px;
+    max-width: 580px;
+    margin: 0 auto 2rem;
     line-height: 1.75;
-    margin: 0 0 2rem;
 }
 
 .hero-buttons {
     display: flex;
     gap: 0.8rem;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .hero-stats {
@@ -239,9 +233,12 @@ body {
     border-top: 1px solid rgba(255, 255, 255, 0.07);
     max-width: 520px;
     flex-wrap: wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.hero-stat { text-align: left; }
+.hero-stat { text-align: center; }
 
 .hero-stat .number {
     font-family: 'JetBrains Mono', monospace;
@@ -727,7 +724,7 @@ body.list .main {
 }
 
 /* =============================================
-   FOOTER
+   FOOTER — full-width edge to edge
    ============================================= */
 .footer {
     background: var(--navy) !important;
@@ -777,9 +774,8 @@ body.list .main {
     }
 
     .nav { flex-direction: column; padding: 0.5rem 1rem !important; }
-    .logo a img { height: 40px !important; }
-    .hero-inner--split { flex-direction: column; gap: 2rem; text-align: center; }
-    .hero-logo img { width: 220px; }
+    .hero-inner--split { gap: 1.5rem; }
+    .hero-logo img { width: 250px; }
     .hero-stats { justify-content: center; }
     .hero-buttons { justify-content: center; }
     #menu { justify-content: center; }
@@ -794,8 +790,7 @@ body.list .main {
 
 @media (max-width: 480px) {
     .hero-title { font-size: 2rem; }
-    .logo a img { height: 35px !important; }
-    .hero-logo img { width: 180px; }
+    .hero-logo img { width: 200px; }
     .services-grid { grid-template-columns: 1fr; }
     .why-grid { grid-template-columns: 1fr 1fr; }
     .process-steps { grid-template-columns: 1fr; }

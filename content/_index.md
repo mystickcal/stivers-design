@@ -1,24 +1,24 @@
 ---
-title: "Stivers Design LLC"
+title: "Stivers Design Inc"
 layout: "home"
 ---
 
 <div class="hero-section">
   <div class="hero-inner hero-inner--split">
     <div class="hero-logo">
-      <img src="/images/logo-dark.png" alt="Stivers Design LLC" />
+      <img src="/images/logo-dark.png" alt="Stivers Design Inc" />
     </div>
     <div class="hero-content">
       <span class="hero-badge">Insured General Contractor</span>
       <h1 class="hero-title">Building It Right.<br><span>Every Time.</span></h1>
-      <p class="hero-subtitle">Stivers Design LLC is a full-service general contractor serving Greater Cleveland and Northeast Ohio. From new builds and demolition to complete renovations, we bring precision and craftsmanship to every project.</p>
+      <p class="hero-subtitle">Stivers Design Inc is a full-service general contractor serving Warren, Trumbull County, and the Mahoning Valley. From new builds and demolition to complete renovations, we bring precision and craftsmanship to every project.</p>
       <div class="hero-buttons">
         <a href="/contact/" class="btn-primary">Get a Free Estimate</a>
         <a href="/services/" class="btn-outline">View Services</a>
       </div>
       <div class="hero-stats">
         <div class="hero-stat">
-          <span class="number">Avon, OH</span>
+          <span class="number">Warren, OH</span>
           <span class="label">Based In</span>
         </div>
         <div class="hero-stat">
@@ -157,26 +157,30 @@ layout: "home"
 <div class="home-section bg-white">
   <div class="section-inner">
     <p class="section-label">Service Area</p>
-    <h2 class="section-title">Serving Greater Cleveland & Northeast Ohio</h2>
+    <h2 class="section-title">Serving the Mahoning Valley & Northeast Ohio</h2>
     <div class="section-line"></div>
-    <p class="section-desc">Based in Avon, Ohio, we serve homeowners and businesses throughout the Greater Cleveland area and surrounding communities.</p>
+    <p class="section-desc">Based in Warren, Ohio, we serve homeowners and businesses throughout Trumbull County, Mahoning County, and the surrounding Northeast Ohio communities.</p>
     <div class="area-list">
-      <span class="area-tag">Avon</span>
-      <span class="area-tag">Avon Lake</span>
-      <span class="area-tag">Westlake</span>
-      <span class="area-tag">Rocky River</span>
-      <span class="area-tag">Bay Village</span>
-      <span class="area-tag">North Ridgeville</span>
-      <span class="area-tag">Elyria</span>
-      <span class="area-tag">Lorain</span>
-      <span class="area-tag">Lakewood</span>
-      <span class="area-tag">North Olmsted</span>
-      <span class="area-tag">Strongsville</span>
-      <span class="area-tag">Medina</span>
-      <span class="area-tag">Brunswick</span>
-      <span class="area-tag">Amherst</span>
-      <span class="area-tag">Sheffield Village</span>
-      <span class="area-tag">Greater Cleveland</span>
+      <span class="area-tag">Warren</span>
+      <span class="area-tag">Youngstown</span>
+      <span class="area-tag">Niles</span>
+      <span class="area-tag">Cortland</span>
+      <span class="area-tag">Howland</span>
+      <span class="area-tag">Girard</span>
+      <span class="area-tag">Hubbard</span>
+      <span class="area-tag">Boardman</span>
+      <span class="area-tag">Canfield</span>
+      <span class="area-tag">Austintown</span>
+      <span class="area-tag">Champion</span>
+      <span class="area-tag">Leavittsburg</span>
+      <span class="area-tag">Newton Falls</span>
+      <span class="area-tag">Ravenna</span>
+      <span class="area-tag">Kent</span>
+      <span class="area-tag">Lordstown</span>
+      <span class="area-tag">Brookfield</span>
+      <span class="area-tag">Vienna</span>
+      <span class="area-tag">Fowler</span>
+      <span class="area-tag">Hartford</span>
     </div>
   </div>
 </div>

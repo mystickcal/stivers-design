@@ -2,12 +2,12 @@
 title: "About Stivers Design"
 layout: "single"
 url: "/about/"
-summary: "Learn about Stivers Design LLC — an insured general contractor based in Avon, Ohio, serving Greater Cleveland and Northeast Ohio."
+summary: "Stivers Design Inc is a fully insured general contractor based in Warren, Ohio, serving Trumbull County, the Mahoning Valley, and Northeast Ohio with new builds, remodeling, demolition, and more."
 ---
 
 ## Who We Are
 
-Stivers Design LLC is a fully insured general contracting company based in **Avon, Ohio**. We specialize in residential and light commercial construction, from new builds and demolition to full-scale remodels and additions.
+Stivers Design Inc is a fully insured general contracting company based in **Warren, Ohio**. We specialize in residential and light commercial construction, from new builds and demolition to full-scale remodels, additions, concrete work, and everything in between.
 
 We're not a massive corporate outfit with layers of project managers between you and the person doing the work. When you hire Stivers Design, you're working directly with people who care about getting it done right.
 
@@ -18,7 +18,7 @@ We're not a massive corporate outfit with layers of project managers between you
 
 ## What We Do
 
-We handle a wide range of residential and commercial projects:
+We handle a wide range of residential and commercial projects across Trumbull County and the Mahoning Valley:
 
 - **New Builds** — Ground-up residential and commercial construction
 - **Demolition** — Full tear-downs, interior gutting, site clearing
@@ -26,7 +26,7 @@ We handle a wide range of residential and commercial projects:
 - **Additions & Remodels** — Kitchens, bathrooms, basements, room additions
 - **Windows & Doors** — Energy-efficient replacements, proper installation
 - **Concrete & Masonry** — Driveways, patios, retaining walls, foundations
-- **General Contracting** — Complete project management, permits, coordination
+- **Project Management** — Complete coordination from permits to final walkthrough
 
 ## How We're Different
 
@@ -42,9 +42,13 @@ A lot of contractors will tell you what you want to hear to win the job, then di
 
 </div>
 
+## About the Company
+
+Stivers Design Inc is organized as an S-Corporation in the state of Ohio. We carry full general liability insurance and handle all necessary permitting for every project we take on. Our focus has always been on doing quality work at fair prices — no cutting corners, no inflated change orders, no games.
+
 ## Service Area
 
-We serve homeowners and businesses throughout **Greater Cleveland** and **Northeast Ohio**, including Avon, Avon Lake, Westlake, Rocky River, North Ridgeville, Elyria, Lorain, Lakewood, North Olmsted, Strongsville, Medina, and surrounding communities.
+We serve homeowners and businesses throughout **Trumbull County**, **Mahoning County**, and the broader **Northeast Ohio** region, including Warren, Youngstown, Niles, Cortland, Howland, Girard, Hubbard, Boardman, Canfield, Austintown, Champion, Leavittsburg, Newton Falls, Ravenna, Kent, and surrounding communities.
 
 ---
 

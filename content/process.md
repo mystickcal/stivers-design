@@ -2,12 +2,12 @@
 title: "Our Process"
 layout: "single"
 url: "/process/"
-summary: "How Stivers Design LLC works — from initial consultation to final walkthrough. No surprises, no shortcuts."
+summary: "How Stivers Design Inc works — from initial consultation to final walkthrough. Transparent general contracting in Warren, Ohio and Trumbull County. No surprises, no shortcuts."
 ---
 
 ## How We Work
 
-We've built our process around one idea: **no surprises.** You should know exactly what's happening, when it's happening, and what it's going to cost before a single nail gets driven.
+We've built our process around one idea: **no surprises.** You should know exactly what's happening, when it's happening, and what it's going to cost before a single nail gets driven. Every project we take on across the Mahoning Valley follows the same straightforward approach.
 
 ---
 

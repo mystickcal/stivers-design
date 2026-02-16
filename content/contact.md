@@ -2,7 +2,7 @@
 title: "Contact Us"
 layout: "single"
 url: "/contact/"
-summary: "Get in touch with Stivers Design LLC for a free estimate on your next construction project in Greater Cleveland, Ohio."
+summary: "Get in touch with Stivers Design Inc for a free estimate on your next construction project in Warren, Ohio, Trumbull County, or the Mahoning Valley."
 ---
 
 ## Get a Free Estimate
@@ -12,8 +12,8 @@ Ready to start your project? Have questions? Need a professional opinion? We'd l
 <div class="info-card">
 
 ### 📍 Location
-**Stivers Design LLC**
-Avon, OH 44011
+**Stivers Design Inc**
+Warren, OH 44481
 
 ### 📧 Email
 **info@stiversdesign.com**
@@ -42,13 +42,13 @@ Give us a call — we answer.
 
 ## Service Area
 
-We serve homeowners and businesses throughout the **Greater Cleveland** area, including:
+We serve homeowners and businesses throughout the **Mahoning Valley** and **Northeast Ohio**, including:
 
-**Lorain County:** Avon, Avon Lake, North Ridgeville, Elyria, Lorain, Amherst, Sheffield Village, Grafton, LaGrange
+**Trumbull County:** Warren, Niles, Cortland, Howland, Girard, Hubbard, Champion, Leavittsburg, Newton Falls, Lordstown, Brookfield, Vienna, Fowler, Hartford
 
-**Cuyahoga County:** Westlake, Rocky River, Bay Village, Lakewood, North Olmsted, Fairview Park, Berea, Olmsted Falls, Strongsville
+**Mahoning County:** Youngstown, Boardman, Canfield, Austintown
 
-**Medina County:** Medina, Brunswick, Wadsworth, Hinckley
+**Portage County:** Ravenna, Kent
 
 **And surrounding communities.** Not sure if we cover your area? Just ask.
 
