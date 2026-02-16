@@ -45,9 +45,9 @@ body {
    HEADER — with logo image
    ============================================= */
 .header {
-    background: var(--white) !important;
+    background: var(--navy) !important;
     border-bottom: none !important;
-    box-shadow: var(--shadow-xs);
+    box-shadow: var(--shadow-md);
     padding: 0 !important;
     position: sticky;
     top: 0;
@@ -71,7 +71,7 @@ body {
     font-family: 'JetBrains Mono', monospace !important;
     font-size: 1.15rem !important;
     font-weight: 600 !important;
-    color: var(--navy) !important;
+    color: var(--white) !important;
     letter-spacing: -0.01em;
     white-space: nowrap;
 }
@@ -101,7 +101,7 @@ body {
 }
 
 #menu a {
-    color: var(--ink-mid) !important;
+    color: rgba(255, 255, 255, 0.85) !important;
     font-size: 0.8rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
@@ -113,8 +113,8 @@ body {
 }
 
 #menu a:hover {
-    color: var(--blue) !important;
-    background: var(--blue-pale);
+    color: var(--white) !important;
+    background: rgba(255, 255, 255, 0.1);
 }
 
 /* =============================================
