@@ -80,8 +80,8 @@ body {
 .logo a::before {
     content: '';
     display: inline-block;
-    width: 160px;
-    height: 48px;
+    width: 320px;
+    height: 100px;
     background: url('/images/logo-dark.png') no-repeat center;
     background-size: contain;
     margin-right: 0;
@@ -743,6 +743,7 @@ body.list .main {
     }
 
     .nav { flex-direction: column; padding: 0.5rem 1rem !important; }
+    .logo a::before { width: 240px; height: 75px; }
     #menu { justify-content: center; }
     #menu a { font-size: 0.74rem !important; padding: 0.35rem 0.5rem !important; }
 
@@ -755,6 +756,7 @@ body.list .main {
 
 @media (max-width: 480px) {
     .hero-title { font-size: 2rem; }
+    .logo a::before { width: 200px; height: 65px; }
     .services-grid { grid-template-columns: 1fr; }
     .why-grid { grid-template-columns: 1fr 1fr; }
     .process-steps { grid-template-columns: 1fr; }
