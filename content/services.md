@@ -2,7 +2,7 @@
 title: "Our Services"
 layout: "single"
 url: "/services/"
-summary: "Full-service general contracting from Stivers Design LLC — roofing, siding, remodeling, additions, concrete, and more in Greater Cleveland, Ohio."
+summary: "Full-service general contracting from Stivers Design LLC — new builds, demolition, remodeling, additions, and more in Greater Cleveland, Ohio."
 ---
 
 ## What We Build
@@ -11,18 +11,18 @@ Stivers Design is a full-service general contractor. Whether you need a single r
 
 ---
 
-## Roofing
+## New Builds
 
-Your roof is your home's first line of defense. We don't cut corners on materials or installation — because a roof done wrong costs you twice.
+From the ground up. We handle every phase of new residential and commercial construction — foundation to finish.
 
 <div class="info-card">
 
-- **Full roof replacements** (shingle, metal, flat)
-- **Roof repairs** and leak diagnosis
-- **Storm damage restoration**
-- **Insurance claim assistance** — we work with your adjuster
-- **Gutter installation and repair**
-- **Roof inspections** for real estate transactions
+- **Custom home construction** — your plans or ours
+- **Commercial buildings** — retail, office, mixed-use
+- **Garages and outbuildings**
+- **Site preparation** and grading
+- **Full trade coordination** — electrical, plumbing, HVAC, and more
+- **Permit acquisition** and code compliance
 
 </div>
 
@@ -95,9 +95,26 @@ From driveways to retaining walls, we handle concrete and masonry work with the 
 
 ---
 
-## General Contracting
+## Demolition
 
-For larger or more complex projects, we serve as your general contractor — managing permits, subcontractors, inspections, timelines, and budgets so you don't have to.
+Safe, efficient demolition for residential and commercial properties. We handle every aspect from permits to disposal.
+
+<div class="info-card">
+
+- **Full structure tear-downs** — residential and commercial
+- **Interior gutting** and selective demolition
+- **Site clearing** and grading
+- **Debris removal** and proper disposal
+- **Permit acquisition** and regulatory compliance
+- **Hazardous material coordination** when required
+
+</div>
+
+---
+
+## Project Management
+
+For larger or more complex projects, we manage permits, subcontractors, inspections, timelines, and budgets so you don't have to.
 
 <div class="info-card">
 

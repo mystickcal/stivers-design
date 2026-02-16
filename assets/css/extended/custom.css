@@ -279,7 +279,7 @@ body {
 
 .section-label {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 0.68rem;
+    font-size: 0.9rem;
     color: var(--blue);
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -350,10 +350,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 48px;
-    height: 48px;
+    width: 56px;
+    height: 56px;
     background: var(--blue-pale);
-    border-radius: 10px;
+    border-radius: 12px;
+    color: var(--blue);
+}
+
+.service-card .icon svg {
+    color: var(--blue);
+    stroke: var(--blue);
 }
 
 .service-card h3 {
@@ -394,6 +400,12 @@ body {
     margin: 0 auto 0.8rem;
     box-shadow: var(--shadow-xs);
     transition: var(--transition);
+    color: var(--blue);
+}
+
+.why-item .icon svg {
+    color: var(--blue);
+    stroke: var(--blue);
 }
 
 .why-item:hover .icon {
@@ -725,6 +737,9 @@ body.list .main {
     font-size: 0.85rem;
     margin-top: 0;
     border-top: 1px solid rgba(255, 255, 255, 0.04);
+    width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+    box-sizing: border-box;
 }
 
 .footer a { color: var(--blue-bright) !important; text-decoration: none; }

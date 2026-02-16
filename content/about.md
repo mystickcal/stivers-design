@@ -2,12 +2,12 @@
 title: "About Stivers Design"
 layout: "single"
 url: "/about/"
-summary: "Learn about Stivers Design LLC — a licensed general contractor based in Avon, Ohio, serving Greater Cleveland and Northeast Ohio."
+summary: "Learn about Stivers Design LLC — an insured general contractor based in Avon, Ohio, serving Greater Cleveland and Northeast Ohio."
 ---
 
 ## Who We Are
 
-Stivers Design LLC is a licensed and insured general contracting company based in **Avon, Ohio**. We specialize in residential and light commercial construction, from roofing and exterior renovations to full-scale remodels and additions.
+Stivers Design LLC is a fully insured general contracting company based in **Avon, Ohio**. We specialize in residential and light commercial construction, from new builds and demolition to full-scale remodels and additions.
 
 We're not a massive corporate outfit with layers of project managers between you and the person doing the work. When you hire Stivers Design, you're working directly with people who care about getting it done right.
 
@@ -20,7 +20,8 @@ We're not a massive corporate outfit with layers of project managers between you
 
 We handle a wide range of residential and commercial projects:
 
-- **Roofing** — Full replacements, repairs, storm damage restoration
+- **New Builds** — Ground-up residential and commercial construction
+- **Demolition** — Full tear-downs, interior gutting, site clearing
 - **Siding & Exteriors** — Vinyl, fiber cement, soffit, fascia, trim
 - **Additions & Remodels** — Kitchens, bathrooms, basements, room additions
 - **Windows & Doors** — Energy-efficient replacements, proper installation

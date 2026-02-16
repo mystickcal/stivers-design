@@ -2,12 +2,12 @@
 title: "Project Gallery"
 layout: "single"
 url: "/gallery/"
-summary: "See examples of completed projects by Stivers Design LLC — roofing, siding, remodels, and more across Greater Cleveland, Ohio."
+summary: "See examples of completed projects by Stivers Design LLC — new builds, siding, remodels, and more across Greater Cleveland, Ohio."
 ---
 
 ## Our Work
 
-We're currently building out our project gallery with photos from recent completed work. Check back soon to see examples of our roofing, siding, remodels, additions, and more.
+We're currently building out our project gallery with photos from recent completed work. Check back soon to see examples of our new builds, siding, remodels, additions, demolition, and more.
 
 <div class="highlight-box">
 <h3>📸 Have a Project in Mind?</h3>
@@ -18,7 +18,8 @@ We're currently building out our project gallery with photos from recent complet
 
 <div class="info-card">
 
-- **Roofing** — Full tear-offs and replacements, architectural shingles, metal roofing, flat roof systems
+- **New Builds** — Ground-up residential and commercial construction
+- **Demolition** — Full tear-downs, interior gutting, site clearing
 - **Exterior Renovations** — Complete siding jobs, soffit/fascia, trim, and exterior painting
 - **Kitchen & Bath Remodels** — Custom cabinetry, tile work, fixture upgrades, layout changes
 - **Additions** — Room additions, bump-outs, second stories, garages
