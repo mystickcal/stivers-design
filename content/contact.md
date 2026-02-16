@@ -2,10 +2,10 @@
 title: "Contact Us"
 layout: "single"
 url: "/contact/"
-summary: "Get in touch with Stivers Design Inc for a free estimate on your next construction project in Warren, Ohio, Trumbull County, or the Mahoning Valley."
+summary: "Get in touch with Stivers Design Inc for an estimate on your next construction project in Warren, Ohio, Trumbull County, or the Mahoning Valley."
 ---
 
-## Get a Free Estimate
+## Get an Estimate
 
 Ready to start your project? Have questions? Need a professional opinion? We'd love to hear from you.
 

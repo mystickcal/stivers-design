@@ -34,6 +34,6 @@ We're currently building out our project gallery with photos from recent complet
 
 **Want to see what we can do for your home or business?**
 
-<a href="/contact/" class="btn-primary" style="margin-top: 1rem;">Get a Free Estimate</a>
+<a href="/contact/" class="btn-primary" style="margin-top: 1rem;">Get an Estimate</a>
 
 </div>

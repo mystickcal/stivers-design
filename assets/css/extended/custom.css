@@ -711,6 +711,10 @@ body.list .main {
     padding: 2rem 2.5rem;
     margin: 2rem 0;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .highlight-box h3 {
@@ -789,6 +793,20 @@ body.list .main {
     .services-grid { grid-template-columns: 1fr; }
     .why-grid { grid-template-columns: 1fr 1fr; }
     .process-steps { grid-template-columns: 1fr; }
+}
+
+/* Hide heading anchor links */
+.post-content h1 .anchor,
+.post-content h2 .anchor,
+.post-content h3 .anchor,
+.post-content h4 .anchor,
+.post-content h5 .anchor,
+.post-content h6 .anchor,
+.post-content .heading-link,
+.post-content .anchor,
+.post-content a.anchor,
+.headerLink {
+    display: none !important;
 }
 
 @media print {

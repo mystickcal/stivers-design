@@ -10,26 +10,13 @@ layout: "home"
     </div>
     <div class="hero-content">
       <span class="hero-badge">Insured General Contractor</span>
-      <h1 class="hero-title">Building It Right.<br><span>Every Time.</span></h1>
+      <h1 class="hero-title">Building It Right. <span>Every Time.</span></h1>
       <p class="hero-subtitle">Stivers Design Inc is a full-service general contractor serving Warren, Trumbull County, and the Mahoning Valley. From new builds and demolition to complete renovations, we bring precision and craftsmanship to every project.</p>
       <div class="hero-buttons">
-        <a href="/contact/" class="btn-primary">Get a Free Estimate</a>
+        <a href="/contact/" class="btn-primary">Get an Estimate</a>
         <a href="/services/" class="btn-outline">View Services</a>
       </div>
-      <div class="hero-stats">
-        <div class="hero-stat">
-          <span class="number">Warren, OH</span>
-          <span class="label">Based In</span>
-        </div>
-        <div class="hero-stat">
-          <span class="number">Fully</span>
-          <span class="label">Insured</span>
-        </div>
-        <div class="hero-stat">
-          <span class="number">100%</span>
-          <span class="label">Satisfaction Guaranteed</span>
-        </div>
-      </div>
+      <!-- stats removed -->
     </div>
   </div>
 </div>
@@ -148,7 +135,7 @@ layout: "home"
     <div class="section-line light"></div>
     <p>Whether it's a new build, a complete remodel, or anything in between, we'd love to hear about your project.</p>
     <div class="hero-buttons" style="justify-content: center;">
-      <a href="/contact/" class="btn-primary" style="background: var(--blue-light); border-color: var(--blue-light);">Get a Free Estimate</a>
+      <a href="/contact/" class="btn-primary" style="background: var(--blue-light); border-color: var(--blue-light);">Get an Estimate</a>
       <a href="tel:+10000000000" class="btn-outline">Call Us Today</a>
     </div>
   </div>

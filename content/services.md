@@ -134,5 +134,5 @@ From driveways to retaining walls, we handle concrete and masonry work with the 
 </div>
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="/contact/" class="btn-primary">Request a Free Estimate</a>
+<a href="/contact/" class="btn-primary">Get an Estimate</a>
 </div>

@@ -53,5 +53,5 @@ We serve homeowners and businesses throughout **Trumbull County**, **Mahoning Co
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-<a href="/contact/" class="btn-primary">Get a Free Estimate</a>
+<a href="/contact/" class="btn-primary">Get an Estimate</a>
 </div>
