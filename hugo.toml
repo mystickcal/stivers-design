@@ -24,7 +24,7 @@ copyright = "Stivers Design Inc · Warren, Ohio · Insured General Contractor"
   images = ["/images/og-default.jpg"]
 
   [params.label]
-    text = "Stivers Design Inc"
+    text = " "
 
   [params.homeInfoParams]
     Title = "Stivers Design Inc"
