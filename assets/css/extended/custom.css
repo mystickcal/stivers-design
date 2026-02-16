@@ -78,8 +78,9 @@ body {
 
 /* Logo image in header */
 .logo a img {
-    height: 100px !important;
+    height: 150px !important;
     width: auto !important;
+    padding-top: 8px;
     transition: var(--transition);
 }
 
@@ -742,7 +743,7 @@ body.list .main {
     }
 
     .nav { flex-direction: column; padding: 0.5rem 1rem !important; }
-    .logo a img { height: 75px !important; }
+    .logo a img { height: 110px !important; }
     #menu { justify-content: center; }
     #menu a { font-size: 0.74rem !important; padding: 0.35rem 0.5rem !important; }
 
@@ -755,7 +756,7 @@ body.list .main {
 
 @media (max-width: 480px) {
     .hero-title { font-size: 2rem; }
-    .logo a img { height: 65px !important; }
+    .logo a img { height: 95px !important; }
     .services-grid { grid-template-columns: 1fr; }
     .why-grid { grid-template-columns: 1fr 1fr; }
     .process-steps { grid-template-columns: 1fr; }
