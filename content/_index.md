@@ -4,26 +4,31 @@ layout: "home"
 ---
 
 <div class="hero-section">
-  <div class="hero-inner">
-    <span class="hero-badge">Licensed & Insured General Contractor</span>
-    <h1 class="hero-title">Building It Right.<br><span>Every Time.</span></h1>
-    <p class="hero-subtitle">Stivers Design LLC is a full-service general contractor serving Greater Cleveland and Northeast Ohio. From roofing and siding to complete renovations, we bring precision and craftsmanship to every project.</p>
-    <div class="hero-buttons">
-      <a href="/contact/" class="btn-primary">Get a Free Estimate</a>
-      <a href="/services/" class="btn-outline">View Services</a>
+  <div class="hero-inner hero-inner--split">
+    <div class="hero-logo">
+      <img src="/images/logo-dark.png" alt="Stivers Design LLC" />
     </div>
-    <div class="hero-stats">
-      <div class="hero-stat">
-        <span class="number">Avon, OH</span>
-        <span class="label">Based In</span>
+    <div class="hero-content">
+      <span class="hero-badge">Licensed & Insured General Contractor</span>
+      <h1 class="hero-title">Building It Right.<br><span>Every Time.</span></h1>
+      <p class="hero-subtitle">Stivers Design LLC is a full-service general contractor serving Greater Cleveland and Northeast Ohio. From roofing and siding to complete renovations, we bring precision and craftsmanship to every project.</p>
+      <div class="hero-buttons">
+        <a href="/contact/" class="btn-primary">Get a Free Estimate</a>
+        <a href="/services/" class="btn-outline">View Services</a>
       </div>
-      <div class="hero-stat">
-        <span class="number">Licensed</span>
-        <span class="label">& Fully Insured</span>
-      </div>
-      <div class="hero-stat">
-        <span class="number">100%</span>
-        <span class="label">Satisfaction Guaranteed</span>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="number">Avon, OH</span>
+          <span class="label">Based In</span>
+        </div>
+        <div class="hero-stat">
+          <span class="number">Licensed</span>
+          <span class="label">& Fully Insured</span>
+        </div>
+        <div class="hero-stat">
+          <span class="number">100%</span>
+          <span class="label">Satisfaction Guaranteed</span>
+        </div>
       </div>
     </div>
   </div>
