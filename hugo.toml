@@ -2,14 +2,14 @@ baseURL = "https://stivers-design.pages.dev/"
 languageCode = "en-us"
 title = "Stivers Design Inc"
 theme = "PaperMod"
-copyright = "Stivers Design Inc · Warren, Ohio · Insured General Contractor"
+copyright = "Stivers Design Inc · Warren, Ohio"
 
 [pagination]
   pagerSize = 10
 
 [params]
   env = "production"
-  description = "Stivers Design Inc — Insured general contractor serving Warren, Trumbull County, and Northeast Ohio. New builds, demolition, siding, remodeling, additions, concrete, and full-service construction."
+  description = "Stivers Design Inc — General contractor serving Warren, Trumbull County, and Northeast Ohio. New builds, demolition, excavation, landscaping, remodeling, additions, concrete, and full-service construction."
   author = "Stivers Design Inc"
   defaultTheme = "light"
   disableThemeToggle = true

@@ -28,18 +28,18 @@ From the ground up. We handle every phase of new residential and commercial cons
 
 ---
 
-## Siding & Exteriors
+## Excavation & Landscaping
 
-A home's exterior isn't just about looks — it's protection. We install siding systems that last, look great, and keep the weather where it belongs: outside. Northeast Ohio winters are tough on exteriors, and we know how to build for this climate.
+Your outdoor space deserves the same craftsmanship as the inside of your home. We handle everything from site grading and drainage solutions to complete landscape transformations — designing and building outdoor spaces that are functional, beautiful, and built to last through Northeast Ohio's seasons.
 
 <div class="info-card">
 
-- **Vinyl siding** installation and replacement
-- **Fiber cement siding** (James Hardie and equivalent)
-- **Engineered wood siding**
-- **Soffit, fascia, and trim** work
-- **Exterior painting** and finishing
-- **Complete exterior transformations**
+- **Designscapes** — custom landscape design and installation
+- **Patios** — concrete, paver, and stone patios
+- **Porches** — front porches, covered porches, and screen rooms
+- **Yard installation** — grading, topsoil, seeding, and sod
+- **French drains** — drainage solutions to protect your property
+- **Grading** — site preparation, regrading, and water management
 
 </div>
 

@@ -12,6 +12,7 @@
     --blue: #2E7CF6;
     --blue-bright: #5599FF;
     --blue-muted: #1D5CBF;
+    --blue-light: #5599FF;
     --blue-pale: #EAF1FD;
     --blue-ghost: #F5F8FE;
     --grid: #D6E3F3;
@@ -543,11 +544,14 @@ body {
 /* =============================================
    BUTTONS
    ============================================= */
-.btn-primary {
+.btn-primary,
+a.btn-primary,
+.main a.btn-primary,
+.post-content a.btn-primary {
     display: inline-flex;
     align-items: center;
-    background: var(--blue);
-    color: var(--white) !important;
+    background: var(--blue) !important;
+    color: #FFFFFF !important;
     font-weight: 700;
     padding: 0.85rem 1.8rem;
     border-radius: var(--radius);
@@ -560,14 +564,20 @@ body {
     box-shadow: 0 3px 12px rgba(46, 124, 246, 0.2);
 }
 
-.btn-primary:hover {
-    background: var(--blue-muted);
+.btn-primary:hover,
+a.btn-primary:hover,
+.main a.btn-primary:hover,
+.post-content a.btn-primary:hover {
+    background: var(--blue-muted) !important;
     transform: translateY(-2px);
     box-shadow: 0 5px 18px rgba(46, 124, 246, 0.3);
-    color: var(--white) !important;
+    color: #FFFFFF !important;
 }
 
-.btn-outline {
+.btn-outline,
+a.btn-outline,
+.main a.btn-outline,
+.post-content a.btn-outline {
     display: inline-flex;
     align-items: center;
     background: transparent;
@@ -581,19 +591,26 @@ body {
     letter-spacing: 0.04em;
     transition: var(--transition);
     text-transform: uppercase;
+    box-shadow: none !important;
 }
 
-.btn-outline:hover {
+.btn-outline:hover,
+a.btn-outline:hover,
+.main a.btn-outline:hover,
+.post-content a.btn-outline:hover {
     background: rgba(255, 255, 255, 0.06);
     border-color: rgba(255, 255, 255, 0.35) !important;
-    color: var(--white) !important;
+    color: #FFFFFF !important;
 }
 
-.btn-dark {
+.btn-dark,
+a.btn-dark,
+.main a.btn-dark,
+.post-content a.btn-dark {
     display: inline-flex;
     align-items: center;
     background: var(--navy);
-    color: var(--white) !important;
+    color: #FFFFFF !important;
     font-weight: 700;
     padding: 0.8rem 1.6rem;
     border-radius: var(--radius);
@@ -603,13 +620,17 @@ body {
     letter-spacing: 0.04em;
     transition: var(--transition);
     text-transform: uppercase;
+    box-shadow: none;
 }
 
-.btn-dark:hover {
+.btn-dark:hover,
+a.btn-dark:hover,
+.main a.btn-dark:hover,
+.post-content a.btn-dark:hover {
     background: var(--navy-mid);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
-    color: var(--white) !important;
+    color: #FFFFFF !important;
 }
 
 /* =============================================

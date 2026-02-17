@@ -9,8 +9,7 @@ layout: "home"
       <img src="/images/logo-dark.png" alt="Stivers Design Inc" />
     </div>
     <div class="hero-content">
-      <span class="hero-badge">Insured General Contractor</span>
-      <h1 class="hero-title">Building It Right. <span>Every Time.</span></h1>
+      <h1 class="hero-title">Turning Your House <span>Into a Home.</span></h1>
       <p class="hero-subtitle">Stivers Design Inc is a full-service general contractor serving Warren, Trumbull County, and the Mahoning Valley. From new builds and demolition to complete renovations, we bring precision and craftsmanship to every project.</p>
       <div class="hero-buttons">
         <a href="/contact/" class="btn-primary">Get an Estimate</a>
@@ -34,9 +33,9 @@ layout: "home"
         <p>Ground-up residential and commercial construction. From foundation to finish, we manage every phase of new construction with precision and craftsmanship.</p>
       </div>
       <div class="service-card">
-        <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><rect x="2" y="6" width="20" height="12" rx="2"/><path d="M12 12h.01"/><path d="M17 12h.01"/><path d="M7 12h.01"/></svg></span>
-        <h3>Siding & Exteriors</h3>
-        <p>Vinyl, fiber cement, and engineered wood siding installation. Soffit, fascia, and trim work. Complete exterior transformations.</p>
+        <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><path d="M2 22h20"/><path d="M6.36 17.4 4 17l-2-4 5-3.2"/><path d="m13 6 4.88 2.22c.42.2.72.58.82 1.03L21 20"/><path d="M10 2v4l-3 2.5"/><path d="M14 2v4l3 2"/><path d="M12 22V10"/></svg></span>
+        <h3>Excavation & Landscaping</h3>
+        <p>Designscapes, patios, porches, yard installation, French drains, and grading. Complete outdoor transformations from the ground up.</p>
       </div>
       <div class="service-card">
         <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><path d="M2 20h20"/><path d="M5 20V8.5L12 4l7 4.5V20"/><path d="M9 20v-4h6v4"/><path d="M3 20l9-16 9 16"/></svg></span>
@@ -135,7 +134,7 @@ layout: "home"
     <div class="section-line light"></div>
     <p>Whether it's a new build, a complete remodel, or anything in between, we'd love to hear about your project.</p>
     <div class="hero-buttons" style="justify-content: center;">
-      <a href="/contact/" class="btn-primary" style="background: var(--blue-light); border-color: var(--blue-light);">Get an Estimate</a>
+      <a href="/contact/" class="btn-primary">Get an Estimate</a>
       <a href="tel:+10000000000" class="btn-outline">Call Us Today</a>
     </div>
   </div>
